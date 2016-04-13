@@ -1,0 +1,12 @@
+Mode: CalDelCalibration
+Rows:
+10 | 20
+Cols:
+10 | 20
+VcalHigh
+Scan: WBC 70 255 1
+Scan: CalDel 0 255 1
+Set: Vcal 255
+Repeat: 5
+ToCalibrate:
+all

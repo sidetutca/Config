@@ -1,0 +1,2 @@
+#FEC number     crate     vme base address     type    URI
+1               1         0x60000000           CTA     chtcp-2.0://cmsuppixch:10203?target=ctapxfec:50001

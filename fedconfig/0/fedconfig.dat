@@ -1,0 +1,2 @@
+#FED number     crate     vme base address     type    URI
+41               1         0x29                CTA     chtcp-2.0://cmsuppixch:10203?target=devfed:50001

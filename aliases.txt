@@ -1,0 +1,19 @@
+ConfigurationAliases
+delay25 0  ;
+pixelalive 12 ;
+tbmdelay 13 ;
+VersionAliases
+nametranslation  0 Default ;
+detconfig  0 Default ;
+fedcard  0 Default ;
+dac  0 Default ;
+lowvoltagemap  0 Default ;
+mask  0 Default ;
+trim  0 Default ;
+tbm  0 Default ;
+dcdc  0 Default ;
+portcard  0 Default ;
+portcardmap  0 Default ;
+tkfecconfig  0 Default ;
+ttcciconfig  0 Default ;
+ltcconfig  0 Default ;
