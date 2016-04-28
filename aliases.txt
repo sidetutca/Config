@@ -1,5 +1,6 @@
 ConfigurationAliases
 delay25 0  ;
+KSUtests 3  ;
 pixelalive 12 ;
 tbmdelay 13 ;
 VersionAliases

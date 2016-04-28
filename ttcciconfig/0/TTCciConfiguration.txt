@@ -24,7 +24,7 @@ ORBIT_SOURCE   INTERNAL     # CTC | LTC | TTC | INTERNAL
 #             QPLLAutoRestart=YES|NO (ignored if not INTERNAL)
 #             FreqBits==0x??
 # CLOCK_SOURCE CTC QPLLReset=NO QPLLAutoRestart=YES FreqBits=0x7
-CLOCK_SOURCE INTERNAL FreqBits=0x37 #  CTC | LTC | TTC | INTERNAL
+CLOCK_SOURCE INTERNAL FreqBits=0x26 #  CTC | LTC | TTC | INTERNAL
 
 # TRIGGER SECTION (ignored if TRIGGER_SOURCE is not set to INTERNAL)
 # Set (last) trigger to 1 to stop trigger sequence.

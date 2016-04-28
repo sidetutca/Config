@@ -1,6 +1,6 @@
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC0
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -21,7 +21,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC1
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -42,7 +42,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC2
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -63,7 +63,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC3
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -84,7 +84,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC4
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -105,7 +105,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC5
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -126,7 +126,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC6
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -147,7 +147,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC7
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -168,7 +168,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC8
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -189,7 +189,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC9
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -210,7 +210,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC10
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -231,7 +231,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC11
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -252,7 +252,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC12
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -273,7 +273,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC13
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -294,7 +294,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC14
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
@@ -315,7 +315,7 @@ ChipContReg:    0
 Readback:      12
 ROC: Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC15
 Vdd:            6
-Vana:         150
+Vana:          90
 Vsh:           30
 Vcomp:         12
 VwllPr:        60
