@@ -1,14 +1,14 @@
 ConfigurationAliases
-Delay25 0 detconfig Default lowvoltagemap Default nametranslation Default fedconfig Default fecconfig Default fedcard Default dac Default mask Default trim Default calib Delay25 tbm Default dcdc Default portcard Default portcardmap Default ttcciconfig Default ltcconfig Default tkfecconfig Default ;
-CalDel 5 detconfig Default lowvoltagemap Default nametranslation Default fedconfig Default fecconfig Default fedcard Default dac Default mask Default trim Default calib CalDel tbm Default dcdc Default portcard Default portcardmap Default ttcciconfig Default ltcconfig Default tkfecconfig Default ;
-PixelAlive 1 detconfig Default lowvoltagemap Default nametranslation Default fedconfig Default fecconfig Default fedcard Default dac Default mask Default trim Default calib PixelAlive tbm Default dcdc Default portcard Default portcardmap Default ttcciconfig Default ltcconfig Default tkfecconfig Default ;
+Delay25     6   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  Delay25  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
+CalDel     7   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  CalDel  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
+PixelAlive     8   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  PixelAlive  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
 VersionAliases
 nametranslation  0 Default ;
 detconfig  0 Default ;
 fecconfig  0 Default ;
 fedconfig  0 Default ;
 fedcard  0 Default ;
-dac  0 Default ;
+dac  1 Default ;
 lowvoltagemap  0 Default ;
 mask  0 Default ;
 trim  0 Default ;
@@ -19,6 +19,6 @@ portcardmap  0 Default ;
 tkfecconfig  0 Default ;
 ttcciconfig  0 Default ;
 ltcconfig  0 Default ;
-calib 1 CalDel ;
-calib 7 Delay25 ;
-calib 14 PixelAlive ;
+calib  1 CalDel ;
+calib  7 Delay25 ;
+calib  14 PixelAlive ;
