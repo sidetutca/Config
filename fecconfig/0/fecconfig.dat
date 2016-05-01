@@ -1,2 +1,2 @@
 #FEC number     crate     vme base address     type    URI
-1               1         0x60000000           CTA     chtcp-2.0://131.225.180.40:10203?target=192.168.1.169:50001
+1               1         0x60000000           CTA     chtcp-2.0://localhost:10203?target=pxfec:50001

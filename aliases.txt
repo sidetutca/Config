@@ -1,5 +1,7 @@
 ConfigurationAliases
 delay25 0  ;
+caldelwbc 5  ;
+prints 4  ;
 KSUtests 3  ;
 pixelalive 12 ;
 tbmdelay 13 ;

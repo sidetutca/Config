@@ -1,7 +1,7 @@
 Mode: TBMDelay
 Parameters:
 OnlyFIFO3 yes
-DumpFIFOs no
+DumpFIFOs yes
 CycleFIFO2Channels no
 NoScanOK yes
 Rows:
@@ -9,8 +9,9 @@ Rows:
 Cols:
 10
 VcalHigh
-Scan: TBMPLL 0 255 4
+Scan: WBC 70 255 1
+Scan: CalDel 0 255 2
 Set: Vcal 255
-Repeat: 10
+Repeat: 3
 Rocs:
 all
