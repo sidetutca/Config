@@ -1,6 +1,4 @@
 Mode: PixelAlive
-Parameters:
-useSOAP yes
 Rows:
  0 | 10
 Cols:
@@ -8,6 +6,6 @@ Cols:
 Vcal:
 255 255 1
 Repeat:
-2
+10
 Rocs:
 all
