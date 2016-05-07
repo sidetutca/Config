@@ -5,13 +5,12 @@ DumpFIFOs yes
 CycleFIFO2Channels no
 NoScanOK yes
 Rows:
-10
+40
 Cols:
-10
+40
 VcalHigh
-Scan: WBC 70 255 1
-Scan: CalDel 0 255 2
+Scan: TBMPLL 0 255 4
 Set: Vcal 255
-Repeat: 3
+Repeat: 10
 Rocs:
 all
