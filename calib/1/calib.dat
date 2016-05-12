@@ -4,8 +4,8 @@ Rows:
 Cols:
 10 | 20
 VcalHigh
-Scan: CalDel 90 150 2
-Scan: WBC 94 96 1
+Scan: CalDel 90 180 2
+Scan: WBC 90 100 1
 Set: Vcal 255
 Repeat: 2
 Rocs:
