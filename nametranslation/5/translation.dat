@@ -1,18 +1,18 @@
 # name                          ?       FEC   mfec  mfecchannel hubaddress portadd   rocid     FED   channel     roc#
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC0 A       1        1        1        15      0        0         41        47        0
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC1 A       1        1        1        15      0        1         41        47        1
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC2 A       1        1        1        15      0        2         41        47        2
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC3 A       1        1        1        15      0        3         41        47        3
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC4 A       1        1        1        15      1        4         41        47        4
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC5 A       1        1        1        15      1        5         41        47        5
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC6 A       1        1        1        15      1        6         41        47        6
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC7 A       1        1        1        15      1        7         41        47        7
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC8 B       1        1        1        15      2        8         41        48        0
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC9 B       1        1        1        15      2        9         41        48        1
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC10 B      1        1        1        15      2       10         41        48        2
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC11 B      1        1        1        15      2       11         41        48        3
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC12 B      1        1        1        15      3       12         41        48        4
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC13 B      1        1        1        15      3       13         41        48        5
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC14 B      1        1        1        15      3       14         41        48        6
-Pilt_BmI_D3_BLD14_PNL1_PLQ1_ROC15 B      1        1        1        15      3       15         41        48        7
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC0 A       1        1        1        15      0        0         41        47        0
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC1 A       1        1        1        15      0        1         41        47        1
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC2 A       1        1        1        15      0        2         41        47        2
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC3 A       1        1        1        15      0        3         41        47        3
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC4 A       1        1        1        15      1        4         41        47        4
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC5 A       1        1        1        15      1        5         41        47        5
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC6 A       1        1        1        15      1        6         41        47        6
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC7 A       1        1        1        15      1        7         41        47        7
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC8 B       1        1        1        15      2        8         41        48        0
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC9 B       1        1        1        15      2        9         41        48        1
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC10 B      1        1        1        15      2       10         41        48        2
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC11 B      1        1        1        15      2       11         41        48        3
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC12 B      1        1        1        15      3       12         41        48        4
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC13 B      1        1        1        15      3       13         41        48        5
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC14 B      1        1        1        15      3       14         41        48        6
+Pilt_BmI_D3_BLD1_PNL1_PLQ1_ROC15 B      1        1        1        15      3       15         41        48        7
 
