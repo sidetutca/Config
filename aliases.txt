@@ -1,5 +1,5 @@
 ConfigurationAliases
-duh 191 ;
+duh     191   ;
 Delay25     183   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  Delay25  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
 CalDel     184   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  CalDel  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
 VcThrCalDel     185   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  VcThrCalDel  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
@@ -10,7 +10,9 @@ CalDel_1mod     124   detconfig  Default  lowvoltagemap  Default  nametranslatio
 VcThrCalDel_1mod     125   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  VcThrCalDel  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
 PixelAlive_1mod     126   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  PixelAlive  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
 TBMDelay_1mod     127   detconfig  Default  lowvoltagemap  Default  nametranslation  Default  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  Default  mask  Default  trim  Default  calib  TBMDelay  tbm  Default  dcdc  Default  portcard  Default  portcardmap  Default  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  ;
-Delay25_1mod_M-G-2-35_17C     190   detconfig  onemod  lowvoltagemap  Default  nametranslation  onemod-hub15-ch4748  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  M-G-2-35_17C  mask  Default  trim  M-G-2-35_17C  tbm  M-G-2-35_17C  dcdc  Default  portcard  Default  portcardmap  onemod  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  calib  Delay25  ;
+Delay25_1mod_M-G-2-35_17C     192   detconfig  onemod  lowvoltagemap  Default  nametranslation  onemod-hub15-ch4748  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  M-G-2-35_17C  mask  Default  trim  M-G-2-35_17C  tbm  M-G-2-35_17C  dcdc  Default  portcard  Default  portcardmap  onemod  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  calib  Delay25  ;
+VcThrCalDel_1mod_M-G-2-35_17C     193   detconfig  onemod  lowvoltagemap  Default  nametranslation  onemod-hub15-ch4748  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  M-G-2-35_17C  mask  Default  trim  M-G-2-35_17C  tbm  M-G-2-35_17C  dcdc  Default  portcard  Default  portcardmap  onemod  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  calib  VcThrCalDel  ;
+PixelAlive_1mod_M-G-2-35_17C     194   detconfig  onemod  lowvoltagemap  Default  nametranslation  onemod-hub15-ch4748  fedconfig  Default  fecconfig  Default  fedcard  Default  dac  M-G-2-35_17C  mask  Default  trim  M-G-2-35_17C  tbm  M-G-2-35_17C  dcdc  Default  portcard  Default  portcardmap  onemod  ttcciconfig  Default  ltcconfig  Default  tkfecconfig  Default  calib  PixelAlive  ;
 VersionAliases
 nametranslation  0 fed03 ;
 nametranslation  2 fed02 ;
@@ -31,7 +33,7 @@ fedcard  1 fed02 ;
 dac  5 ApartmentStack ;
 dac  7 M-L-4-15 ;
 dac  9 Default ;
-dac  10 M-G-2-35_17C ;
+dac  11 M-G-2-35_17C ;
 lowvoltagemap  0 Default ;
 mask  0 Default ;
 trim  2 ApartmentStack ;
