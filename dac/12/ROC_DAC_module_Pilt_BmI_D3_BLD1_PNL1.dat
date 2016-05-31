@@ -7,7 +7,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         98
-VcThr:         105
+VcThr:         99
 VIbias_bus:    30
 PHOffset:      182
 Vcomp_ADC:     50
@@ -28,7 +28,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         98
-VcThr:         113
+VcThr:         107
 VIbias_bus:    30
 PHOffset:      173
 Vcomp_ADC:     50
@@ -49,7 +49,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         105
-VcThr:         105
+VcThr:         99
 VIbias_bus:    30
 PHOffset:      164
 Vcomp_ADC:     50
@@ -70,7 +70,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         118
-VcThr:         105
+VcThr:         99
 VIbias_bus:    30
 PHOffset:      163
 Vcomp_ADC:     50
@@ -91,7 +91,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         103
-VcThr:         105
+VcThr:         99
 VIbias_bus:    30
 PHOffset:      178
 Vcomp_ADC:     50
@@ -112,7 +112,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         107
-VcThr:         97
+VcThr:         91
 VIbias_bus:    30
 PHOffset:      182
 Vcomp_ADC:     50
@@ -133,7 +133,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         101
-VcThr:         97
+VcThr:         91
 VIbias_bus:    30
 PHOffset:      175
 Vcomp_ADC:     50
@@ -154,7 +154,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         98
-VcThr:         89
+VcThr:         83
 VIbias_bus:    30
 PHOffset:      176
 Vcomp_ADC:     50
@@ -175,7 +175,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         133
-VcThr:         121
+VcThr:         115
 VIbias_bus:    30
 PHOffset:      175
 Vcomp_ADC:     50
@@ -196,7 +196,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         102
-VcThr:         113
+VcThr:         107
 VIbias_bus:    30
 PHOffset:      167
 Vcomp_ADC:     50
@@ -217,7 +217,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         108
-VcThr:         105
+VcThr:         99
 VIbias_bus:    30
 PHOffset:      175
 Vcomp_ADC:     50
@@ -238,7 +238,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         113
-VcThr:         121
+VcThr:         115
 VIbias_bus:    30
 PHOffset:      175
 Vcomp_ADC:     50
@@ -259,7 +259,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         98
-VcThr:         105
+VcThr:         99
 VIbias_bus:    30
 PHOffset:      160
 Vcomp_ADC:     50
@@ -280,7 +280,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         120
-VcThr:         113
+VcThr:         107
 VIbias_bus:    30
 PHOffset:      184
 Vcomp_ADC:     50
@@ -301,7 +301,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         109
-VcThr:         105
+VcThr:         99
 VIbias_bus:    30
 PHOffset:      183
 Vcomp_ADC:     50
@@ -322,7 +322,7 @@ VwllPr:        150
 VwllSh:        150
 VHldDel:       250
 Vtrim:         104
-VcThr:         113
+VcThr:         107
 VIbias_bus:    30
 PHOffset:      176
 Vcomp_ADC:     50
