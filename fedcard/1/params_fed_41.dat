@@ -1,9 +1,13 @@
 Type: CTA
 Control bits: 0xFFFFFFFFFFFFFFFF
-Transparent+scope channel: 2
+Control bits override: 0
+Transparent+scope channel: 23
 PACKET_NB: 1
 Which FMC (lower = 0): 1
 Fitel channel order swapped: 0
+Timeout checking enabled: 0
+Timeout counter start: 0
+Timeout number OOS threshold: 0
 FED Base address                         :0x29
 FEDID Number                             :0x29
 Number of ROCs Chnl 1:8
